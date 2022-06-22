@@ -3,7 +3,8 @@ Define a number of days that you want your indices will saved and not all of the
 
 
 
-#Basic Query
+# Basic Query
+
 
 GET _cat/templates - see if the replication of index's (2) is on a cluster
 
